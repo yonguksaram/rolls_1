@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # warmup
 Let's warm up!
 
@@ -14,3 +15,6 @@ Write your solution in `src/index.js`
 - Run `npm install` in command line
 - Run `npm test` in command line
 - You will see the number of passing and failing tests
+=======
+# rolls_1
+>>>>>>> d1b85d27114beb44fbf8778bd9d2640109c866b9
